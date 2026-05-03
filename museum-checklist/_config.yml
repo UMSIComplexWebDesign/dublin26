@@ -1,0 +1,7 @@
+title: Museum Accessibility Reviews
+description: Student accessibility audits from our travel blog
+theme: null
+plugins: []
+
+markdown: kramdown
+permalink: /reviews/:name/
