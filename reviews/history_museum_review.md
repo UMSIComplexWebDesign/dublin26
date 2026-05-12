@@ -6,7 +6,9 @@ title: Accessibility review — Natural History Museum
 # Accessibility review: Natural History Museum
 
 **Observer:** Tasnimah Uddin, Olivia Lombardo, Mia Tursman
+
 **Date:** 2026-05-11
+
 **Overall compliance:** 57% of rated items met (26 met, 5 not met, 15 partial, 5 N/A)
 
 ## Audio/visual & interactives
