@@ -1,6 +1,7 @@
 # Accessibility Review: EPIC Museum
 
 **Observer:** Geo Johnson & Kelston Richmond 
+
 **Date:** 2026-05-14  
 **Overall compliance:** 55% of rated items met  
 **Summary:** 26 met, 9 not met, 12 partial, 0 N/A  
